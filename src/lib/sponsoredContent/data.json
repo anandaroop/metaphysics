@@ -1,0 +1,44 @@
+{
+  "cities": {
+    "new-york-ny-usa": {
+      "introText": "The BMW Art Guide is your go-to-guide to discover private collections of modern and contemporary art which are accessible to the public. Please see below for collections in New York.",
+      "artGuideUrl": "https://www.bmw-art-guide.com/",
+      "partnerIds": []
+    },
+    "london-united-kingdom": {
+      "introText": "The BMW Art Guide is your go-to-guide to discover private collections of modern and contemporary art which are accessible to the public. Please see below for collections in London.",
+      "artGuideUrl": "https://www.bmw-art-guide.com/",
+      "partnerIds": []
+    },
+    "los-angeles-ca-usa": {
+      "introText": "The BMW Art Guide is your go-to-guide to discover private collections of modern and contemporary art which are accessible to the public. Please see below for collections in Los Angeles.",
+      "artGuideUrl": "https://www.bmw-art-guide.com/",
+      "partnerIds": []
+    },
+    "paris-france": {
+      "introText": "The BMW Art Guide is your go-to-guide to discover private collections of modern and contemporary art which are accessible to the public. Please see below for collections in Paris.",
+      "artGuideUrl": "https://www.bmw-art-guide.com/",
+      "partnerIds": []
+    },
+    "berlin-germany": {
+      "introText": "The BMW Art Guide is your go-to-guide to discover private collections of modern and contemporary art which are accessible to the public. Please see below for collections in Berlin.",
+      "artGuideUrl": "https://www.bmw-art-guide.com/",
+      "partnerIds": []
+    },
+    "hong-kong-hong-kong": {
+      "introText": "The BMW Art Guide is your go-to-guide to discover private collections of modern and contemporary art which are accessible to the public. Please see below for collections in Hong Kong.",
+      "artGuideUrl": "https://www.bmw-art-guide.com/",
+      "partnerIds": []
+    }
+  },
+  "fairs": {
+    "art-basel-hong-kong-2019": {
+      "activationText": "Aliqua ea labore consectetur nulla reprehenderit amet ex excepteur.",
+      "pressReleaseUrl": "https://www.example.com"
+    },
+    "the-armory-show-2019": {
+      "activationText": "Ullamco cupidatat aliqua incididunt qui tempor tempor amet veniam aliqua adipisicing eu.",
+      "pressReleaseUrl": "https://www.example.com"
+    }
+  }
+}
